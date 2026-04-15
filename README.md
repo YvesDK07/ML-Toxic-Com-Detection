@@ -25,9 +25,6 @@
 git clone https://github.com/yourusername/toxic-comment-detection.git
 cd toxic-comment-detection
 
-# Install dependencies
-pip install -r requirements.txt
-
 # Run main script
 python toxic-com-detection.py
 ```
@@ -61,18 +58,6 @@ model = XGBClassifier(scale_pos_weight=1)    # Balanced correctly
 ```
 
 This discovery improved XGBoost accuracy from ~70% to **88.67%** 🎯
-
----
-
-## 📁 Project Structure
-
-```
-toxic-comment-detection/
-├── toxic-com-detection.py          # Main implementation
-├── requirements.txt                 # Dependencies
-├── Toxic_Comment_Detection_Eval2.pptx  # Presentation (20 slides)
-└── README.md
-```
 
 ---
 
