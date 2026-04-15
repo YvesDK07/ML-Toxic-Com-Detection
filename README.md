@@ -1,7 +1,7 @@
 # Toxic Comment Detection 🛡️
 
 > **Advanced ML ensemble system for toxic comment detection with explainable AI**  
-> EFREI Paris | TI508M/TI608M Introduction to Machine Learning
+> EFREI Paris/MAHE | TI508M/TI608M Introduction to Machine Learning
 
 **Authors:** Yves de KERROS • Warren Assepo
 
